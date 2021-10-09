@@ -2,7 +2,7 @@
 
 ## Pain vs. Suffering
 + Suffering is pain without purpose. Pain with no higher goal. Pain with no dreams, no ambition, no aspiration.
-+You’re here because you choose to invest in a different life. A better life - so make it worth it.
++ You’re here because you choose to invest in a different life. A better life - so make it worth it.
 
 ## Beginners Guide to Big O
 + Big O notation is written in the form of O(n) where O stands for “order of magnitude” and n represents what we're comparing the complexity of a task against. A task can be handled using one of many algorithms, each of varying complexity and scalability over time.
