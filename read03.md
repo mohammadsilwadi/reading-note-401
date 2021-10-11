@@ -1,7 +1,7 @@
 # [reading-note-401](https://mohammadsilwadi.github.io/reading-note-401/)
 ## Read & Write Files in Python
     What Is a File?
-    a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable. In the end, these byte files are then translated into binary 1 and 0 for easier processing by the computer.
+ a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable. In the end, these byte files are then translated into binary 1 and 0 for easier processing by the computer.
 file systems are composed of three main parts:
 + Header: metadata about the contents of the file (file name, size, type, and so on)
 + Data: contents of the file as written by the creator or editor
