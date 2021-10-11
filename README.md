@@ -11,4 +11,6 @@
 
 * [Topic](https://mohammadsilwadi.github.io/reading-note-401/read01)
 + [Testing and Modules](https://mohammadsilwadi.github.io/reading-note-401/read02)
++ [ FileIO & Exceptions](https://mohammadsilwadi.github.io/reading-note-401/read03)
+
 
