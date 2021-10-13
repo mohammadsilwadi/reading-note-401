@@ -13,5 +13,6 @@
 + [Testing and Modules](https://mohammadsilwadi.github.io/reading-note-401/read02)
 + [ FileIO & Exceptions](https://mohammadsilwadi.github.io/reading-note-401/read03)
 + [ Topic](https://mohammadsilwadi.github.io/reading-note-401/read04)
++ [ Linked Lists ](https://mohammadsilwadi.github.io/reading-note-401/read05)
 
 
