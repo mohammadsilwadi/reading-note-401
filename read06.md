@@ -1,6 +1,6 @@
 # [reading-note-401](https://mohammadsilwadi.github.io/reading-note-401/)
 
-## Big O:  Random Module
+##   Random Module
 + The random module provides access to functions that support many operations. Perhaps the most important thing is that it allows you to generate random numbers.
 
 | Function Name | Description |
