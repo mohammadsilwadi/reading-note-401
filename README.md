@@ -16,5 +16,6 @@
 + [ Linked Lists ](https://mohammadsilwadi.github.io/reading-note-401/read05)
 + [ Game of Greed 1 ](https://mohammadsilwadi.github.io/reading-note-401/read06)
 + [ Game of Greed 2 ](https://mohammadsilwadi.github.io/reading-note-401/read07)
++ [ Game of Greed 3 ](https://mohammadsilwadi.github.io/reading-note-401/read08)
  
 
