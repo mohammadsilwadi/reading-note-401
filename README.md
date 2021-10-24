@@ -20,6 +20,8 @@
 + [ Game of Greed 4 ](https://mohammadsilwadi.github.io/reading-note-401/read09)
 + [ Stacks and Queues ](https://mohammadsilwadi.github.io/reading-note-401/read10)
 + [ Data Analysis ](https://mohammadsilwadi.github.io/reading-note-401/read11)
++ [ Pandas  ](https://mohammadsilwadi.github.io/reading-note-401/read12)
+
 
  
 
