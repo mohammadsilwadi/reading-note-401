@@ -21,6 +21,7 @@
 + [ Stacks and Queues ](https://mohammadsilwadi.github.io/reading-note-401/read10)
 + [ Data Analysis ](https://mohammadsilwadi.github.io/reading-note-401/read11)
 + [ Pandas  ](https://mohammadsilwadi.github.io/reading-note-401/read12)
++ [ Linear Regressions  ](https://mohammadsilwadi.github.io/reading-note-401/read13)
 
 
  
