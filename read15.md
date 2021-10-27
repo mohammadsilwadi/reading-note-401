@@ -14,9 +14,11 @@
 ### Traversals
 1- Depth First (Pre-order)
 
-    Pre-order: root >> left >> right
-    In-order: left >> root >> right
-    Post-order: left >> right >> root
+Pre-order: root >> left >> right
+In-order: left >> root >> right
+Post-order: left >> right >> root
 The most common way to traverse through a tree is to use recursion. With these traversals, we rely on the call stack to navigate back up the tree when we have reached the end of a sub-path.
+
 2- Breadth First
+
 Traditionally, breadth first traversal uses a queue (instead of the call stack via recursion) to traverse the width/breadth of the tree. 
