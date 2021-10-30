@@ -3,7 +3,7 @@
 Machine learning is a comprehensive approach to solving problems
 ### Key Terminology
 + Model - a set of patterns learned from data.
-Algorithm - a specific ML process used to train a model.
++ Algorithm - a specific ML process used to train a model.
 + Training data - the dataset from which the algorithm learns the model.
 + Test data - a new dataset for reliably evaluating model performance.
 + Features - Variables (columns) in the dataset used to train the model.
@@ -35,7 +35,7 @@ The first step to data cleaning is removing unwanted observations from your data
 
 This includes duplicate or irrelevant observations.
 | Duplicate observations | Unsupervised Learning |
-| ---------------    | ----------------- |
+| ------------------    | ------------------- |
 | Duplicate observations most frequently arise during data collection|	Irrelevant observations are those that don’t actually fit the specific problem that you’re trying to solve. |
 |1-  Combine datasets from multiple places| For example, if you were building a model for Single-Family homes only, you wouldn't want observations for Apartments in there. |
 2- Scrape data | This is also a great time to review your charts from Exploratory Analysis. You can look at the distribution charts for categorical features to see if there are any classes that shouldn’t be there.|
@@ -67,4 +67,4 @@ It might seem like it took a while to get here, but data scientists actually do 
 + Cleaning the data.
 + Engineering new features.
 
-In  Model Training. We will swap algorithms in and out and automatically find the best parameters for each one
+In  Model Training. We will swap algorithms in and out and automatically find the best parameters for each one.
