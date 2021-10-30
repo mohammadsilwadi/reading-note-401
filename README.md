@@ -22,8 +22,10 @@
 + [ Data Analysis ](https://mohammadsilwadi.github.io/reading-note-401/read11)
 + [ Pandas  ](https://mohammadsilwadi.github.io/reading-note-401/read12)
 + [ Linear Regressions  ](https://mohammadsilwadi.github.io/reading-note-401/read13)
-+ [matplotlib](https://mohammadsilwadi.github.io/reading-note-401/read14)
++ [Matplotlib](https://mohammadsilwadi.github.io/reading-note-401/read14)
 + [Trees](https://mohammadsilwadi.github.io/reading-note-401/read15)
++ [Data science and machine learning ](https://mohammadsilwadi.github.io/reading-note-401/read16)
+
 
 
 
