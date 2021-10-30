@@ -66,3 +66,5 @@ It might seem like it took a while to get here, but data scientists actually do 
 + Exploring the data.
 + Cleaning the data.
 + Engineering new features.
+
+In  Model Training. We will swap algorithms in and out and automatically find the best parameters for each one
