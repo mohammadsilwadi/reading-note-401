@@ -25,6 +25,7 @@
 + [Matplotlib](https://mohammadsilwadi.github.io/reading-note-401/read14)
 + [Trees](https://mohammadsilwadi.github.io/reading-note-401/read15)
 + [Data science and machine learning ](https://mohammadsilwadi.github.io/reading-note-401/read16)
++ [Web scraping ](https://mohammadsilwadi.github.io/reading-note-401/read17)
 
 
 
