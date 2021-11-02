@@ -27,6 +27,8 @@
 + [Data science and machine learning ](https://mohammadsilwadi.github.io/reading-note-401/read16)
 + [Web scraping ](https://mohammadsilwadi.github.io/reading-note-401/read17)
 + [Cryptography](https://mohammadsilwadi.github.io/reading-note-401/read18)
++ [Automation](https://mohammadsilwadi.github.io/reading-note-401/read19)
+
 
 
 
