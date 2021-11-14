@@ -30,6 +30,7 @@
 + [Automation](https://mohammadsilwadi.github.io/reading-note-401/read19)
 + [Intro to Django](https://mohammadsilwadi.github.io/reading-note-401/read20)
 + [ Django Models](https://mohammadsilwadi.github.io/reading-note-401/read21)
++ [ Django Models](https://mohammadsilwadi.github.io/reading-note-401/read22)
 
 
 
