@@ -110,9 +110,3 @@ def renew_book_librarian(request, pk):
 ```
 
 
-
-### Testing the page
-
-```
-{% if perms.catalog.can_mark_returned %}- <a href="{% url 'renew-book-librarian' bookinst.id %}">Renew</a>  {% endif %}
-```
