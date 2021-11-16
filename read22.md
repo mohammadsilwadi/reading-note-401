@@ -109,7 +109,7 @@ def renew_book_librarian(request, pk):
     return render(request, 'catalog/book_renew_librarian.html', context)
 ```
 
-### The template
+<!-- ### The template
 ```
 {% extends "base_generic.html" %}
 
@@ -126,7 +126,7 @@ def renew_book_librarian(request, pk):
     <input type="submit" value="Submit">
   </form>
 {% endblock %}
-```
+``` -->
 
 ### Testing the page
 
