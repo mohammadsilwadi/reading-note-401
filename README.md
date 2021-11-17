@@ -32,6 +32,8 @@
 + [ Django Models](https://mohammadsilwadi.github.io/reading-note-401/read21)
 + [Django CRUD and Forms](https://mohammadsilwadi.github.io/reading-note-401/read22)
 + [Django Custom User](https://mohammadsilwadi.github.io/reading-note-401/read23)
++ [Hash Tables](https://mohammadsilwadi.github.io/reading-note-401/read24
+)
 
 
 
