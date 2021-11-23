@@ -36,7 +36,7 @@
 + [Django REST Framework & Docker](https://mohammadsilwadi.github.io/reading-note-401/read25)
 + [Permissions & Postgresql](https://mohammadsilwadi.github.io/reading-note-401/read26)
 + [Authentication & Production](https://mohammadsilwadi.github.io/reading-note-401/read27)
-+ [API Deployment](https://mohammadsilwadi.github.io/reading-note-401/read27)
++ [API Deployment](https://mohammadsilwadi.github.io/reading-note-401/read28)
 
 
 
