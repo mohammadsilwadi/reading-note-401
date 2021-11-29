@@ -40,6 +40,8 @@
 + [Graphs](https://mohammadsilwadi.github.io/reading-note-401/read29)
 + [DSA Review](https://mohammadsilwadi.github.io/reading-note-401/read30)
 + [DSA Review](https://mohammadsilwadi.github.io/reading-note-401/read31)
++ [ React 2](https://mohammadsilwadi.github.io/reading-note-401/read32)
+
 
 
 
