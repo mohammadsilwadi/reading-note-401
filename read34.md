@@ -28,7 +28,8 @@ And in the case of /post/a/b, and any other matching path, new parameters will b
 { "slug": ["a", "b"] }
 ```
 ## Next.js - Deployment
-A cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration. Vercel is a tool in the Static Web Hosting category of a tech stack.
+### Vercel
+Vercel is A cloud platform for serverless deployment. It enables developers to host websites and web services that deploy instantly, scale automatically, and require no supervision, all with minimal configuration. Vercel is a tool in the Static Web Hosting category of a tech stack.
 
 In this url you can see my react application
 [my website](https://cookie-stand-admin-adavpn6zl-mohammadsilwadi.vercel.app/)
