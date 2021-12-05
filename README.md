@@ -43,6 +43,7 @@
 + [ React 2](https://mohammadsilwadi.github.io/reading-note-401/read32)
 + [ React 3](https://mohammadsilwadi.github.io/reading-note-401/read33)
 + [ React ](https://mohammadsilwadi.github.io/reading-note-401/read34)
++ [  Pythonisms ](https://mohammadsilwadi.github.io/reading-note-401/read35)
 
 
 
